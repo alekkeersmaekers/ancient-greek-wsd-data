@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15776455.svg)](https://zenodo.org/doi/10.5281/zenodo.15776455)
+
 # Ancient Greek WSD data
 Gold standard datasets for Ancient Greek Word Sense Disambiguation (WSD). Each dataset contains a GLAUx ID and its associated sense: to get the Greek sentence, you have to look up the ID in the [GLAUx corpus](https://github.com/alekkeersmaekers/glaux).
 
